@@ -1,5 +1,5 @@
 ## About Me
----
+
 **Hello! My name is Tom Scott and I am currently a freshman studying at Mizzou. I enjoy writing, making music, tinkering with things, and excercising.**
 ___
 
