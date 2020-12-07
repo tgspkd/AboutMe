@@ -6,7 +6,7 @@ ___
 ![Picture of my cat](muffin.jpg) "Muffin"
 
 ---
-[*Experience*](README.md) ->
+[*Experience*](exp.md) ->
 
 [*Favorites*](favorite.md) -->
 
