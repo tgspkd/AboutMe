@@ -6,10 +6,10 @@ ___
 ![Picture of my cat](muffin.jpg) "Muffin"
 
 ---
-[*Experience*](exp.md) ->
+[*Programming Experience*](exp.md) ->
 
-[*Favorites*](favorite.md) -->
+[*Projects*](project.md) -->
 
-[*Page 4*](page4.md) --->
+[*Favorite Things*](favorite.md) --->
 
-[*Page 5*](page5.md) ---->
+[*Mizzou*](mizzou.md) ---->

@@ -1,4 +1,4 @@
-## Experience
+## Programming Experience
 
 **I graduated from University High School in Normal, IL in 2020 and am pursuing a B.S. degree in IT at Unversity of Columbia, Missouri. My programming experience mostly consists of Java and some Python, HTML, JS, and Markdown.**
 
@@ -100,15 +100,10 @@ public class TowerOfHanoi extends JPanel {
 }
 ```
 ---
-Besides programming, I have engineering experience with building, modifying, and repairing various devices such as computers, bicycles, and remote control vehicles. **[Here](https://photos.app.goo.gl/p42X9M8gGHEwWnZT9)** is an album of my recent rc crawler project, which I am currently modifying and rebuilding. 
-
-![Picture of my rc crawler](crawler.png) "How she looked before the mud and rollovers"
-
----
 <- [*About Me*](README.md)
 
-[*Favorites*](favorite.md)->
+[*Projects*](project.md)->
 
-[*Page 4*](page4.md) -->
+[*Favorite Things*](favorite.md) -->
 
-[*Page 5*](page5.md) --->
+[*Mizzou*](mizzou.md) --->
