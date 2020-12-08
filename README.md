@@ -9,4 +9,4 @@ ___
 - [*Programming Experience*](exp.md) ->
 - [*Projects*](project.md) -->
 - [*Favorite Things*](favorite.md) --->
-- [*Wrap-Up*](wrapup).md) ---->
+- [*Wrap-Up*](wrapup.md) ---->
