@@ -11,10 +11,7 @@ Besides programming, I have engineering experience with building, modifying, and
 ![Picture of my gaming PC in its early stages](pc.jpg) "Testing everything before I got a case. Safe? Maybe."
 
 ---
-<-- [*About Me*](README.md)
-
-<- [*Programming Experience*](exp.md)
-
-[*Favorite Things*](favorite.md) ->
-
-[*Mizzou*](mizzou.md) -->
+- <-- [*About Me*](README.md)
+- <- [*Programming Experience*](exp.md)
+- [*Favorite Things*](favorite.md) ->
+- [*Wrap-Up*](wrapup.md) -->

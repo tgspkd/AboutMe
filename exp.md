@@ -2,7 +2,7 @@
 
 **I graduated from University High School in Normal, IL in 2020 and am pursuing a B.S. degree in IT at Unversity of Columbia, Missouri. My programming experience mostly consists of Java and some Python, HTML, JS, and Markdown.**
 
-*Here is a program I wrote in Java to solve the Tower of Hanoi puzzle, not including the **Runner** class:*
+*Here is a program I wrote in Java to solve the Tower of Hanoi puzzle, not including the **Runner** class.*
 
 ---
 ```
@@ -100,10 +100,7 @@ public class TowerOfHanoi extends JPanel {
 }
 ```
 ---
-<- [*About Me*](README.md)
-
-[*Projects*](project.md)->
-
-[*Favorite Things*](favorite.md) -->
-
-[*Mizzou*](mizzou.md) --->
+- <- [*About Me*](README.md)
+- [*Projects*](project.md)->
+- [*Favorite Things*](favorite.md) -->
+- [*Wrap-Up*](wrapup.md) --->
